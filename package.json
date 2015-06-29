@@ -1,0 +1,30 @@
+{
+  "name": "react-contentable",
+  "description": "Content editable component for React",
+  "version": "0.1.0",
+  "author": "Anthony Smith <@anthonator>",
+  "keywords": [
+    "react",
+    "component",
+    "contenteditable",
+    "contentedit",
+    "react-contentable",
+    "content edit",
+    "content editable",
+    "editable",
+    "contentable"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "devDependencies": {
+    "babel": "^5.6.0",
+    "gulp": "^3.9.0"
+  },
+  "peerDependencies": {
+    "react": "~0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonator/react-contentable.git"
+  }
+}
