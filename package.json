@@ -15,10 +15,10 @@
     "contentable"
   ],
   "license": "MIT",
-  "main": "./index.js",
+  "main": "./dist/index.js",
   "devDependencies": {
-    "babel": "^5.6.0",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
   },
   "peerDependencies": {
     "react": "~0.13"
