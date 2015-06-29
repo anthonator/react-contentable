@@ -9,6 +9,7 @@
   },
   "rules": {
     "no-multi-spaces": 0,
+    "no-underscore-dangle": 0,
     "quotes": [2, "single"]
   }
 }
