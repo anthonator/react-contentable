@@ -1,7 +1,7 @@
 {
   "name": "react-contentable",
   "description": "Content editable component for React",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Anthony Smith <@anthonator>",
   "keywords": [
     "react",
@@ -21,7 +21,7 @@
     "gulp-babel": "^5.1.0"
   },
   "peerDependencies": {
-    "react": "~0.13"
+    "react": ">= 0.13"
   },
   "repository": {
     "type": "git",
